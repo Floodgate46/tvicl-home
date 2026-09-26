@@ -1,0 +1,6 @@
+{
+  "name": "TVICL - The Valley Investment Company Limited",
+  "description": "The Valley Investment Company Limited (TVICL). Experience the living buyer journey: interactive Dream Home Studio, live Construction Pulse, smart home simulation, surface stories, and concept board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
